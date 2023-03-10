@@ -1,0 +1,15 @@
+C:\Users\thiag_000\Desktop\Projetos C#\Hora entrada e saida\Hora entrada e saida\bin\Debug\net6.0\Hora entrada e saida.exe
+C:\Users\thiag_000\Desktop\Projetos C#\Hora entrada e saida\Hora entrada e saida\bin\Debug\net6.0\Hora entrada e saida.deps.json
+C:\Users\thiag_000\Desktop\Projetos C#\Hora entrada e saida\Hora entrada e saida\bin\Debug\net6.0\Hora entrada e saida.runtimeconfig.json
+C:\Users\thiag_000\Desktop\Projetos C#\Hora entrada e saida\Hora entrada e saida\bin\Debug\net6.0\Hora entrada e saida.dll
+C:\Users\thiag_000\Desktop\Projetos C#\Hora entrada e saida\Hora entrada e saida\bin\Debug\net6.0\Hora entrada e saida.pdb
+C:\Users\thiag_000\Desktop\Projetos C#\Hora entrada e saida\Hora entrada e saida\obj\Debug\net6.0\Hora entrada e saida.csproj.AssemblyReference.cache
+C:\Users\thiag_000\Desktop\Projetos C#\Hora entrada e saida\Hora entrada e saida\obj\Debug\net6.0\Hora entrada e saida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag_000\Desktop\Projetos C#\Hora entrada e saida\Hora entrada e saida\obj\Debug\net6.0\Hora entrada e saida.AssemblyInfoInputs.cache
+C:\Users\thiag_000\Desktop\Projetos C#\Hora entrada e saida\Hora entrada e saida\obj\Debug\net6.0\Hora entrada e saida.AssemblyInfo.cs
+C:\Users\thiag_000\Desktop\Projetos C#\Hora entrada e saida\Hora entrada e saida\obj\Debug\net6.0\Hora entrada e saida.csproj.CoreCompileInputs.cache
+C:\Users\thiag_000\Desktop\Projetos C#\Hora entrada e saida\Hora entrada e saida\obj\Debug\net6.0\Hora entrada e saida.dll
+C:\Users\thiag_000\Desktop\Projetos C#\Hora entrada e saida\Hora entrada e saida\obj\Debug\net6.0\refint\Hora entrada e saida.dll
+C:\Users\thiag_000\Desktop\Projetos C#\Hora entrada e saida\Hora entrada e saida\obj\Debug\net6.0\Hora entrada e saida.pdb
+C:\Users\thiag_000\Desktop\Projetos C#\Hora entrada e saida\Hora entrada e saida\obj\Debug\net6.0\Hora entrada e saida.genruntimeconfig.cache
+C:\Users\thiag_000\Desktop\Projetos C#\Hora entrada e saida\Hora entrada e saida\obj\Debug\net6.0\ref\Hora entrada e saida.dll
