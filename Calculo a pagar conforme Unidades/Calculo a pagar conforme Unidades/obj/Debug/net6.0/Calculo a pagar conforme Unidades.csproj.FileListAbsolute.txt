@@ -1,0 +1,15 @@
+C:\Users\thiag_000\Desktop\Projetos C#\Calculo a pagar conforme Unidades\Calculo a pagar conforme Unidades\obj\Debug\net6.0\Calculo a pagar conforme Unidades.csproj.AssemblyReference.cache
+C:\Users\thiag_000\Desktop\Projetos C#\Calculo a pagar conforme Unidades\Calculo a pagar conforme Unidades\obj\Debug\net6.0\Calculo a pagar conforme Unidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag_000\Desktop\Projetos C#\Calculo a pagar conforme Unidades\Calculo a pagar conforme Unidades\obj\Debug\net6.0\Calculo a pagar conforme Unidades.AssemblyInfoInputs.cache
+C:\Users\thiag_000\Desktop\Projetos C#\Calculo a pagar conforme Unidades\Calculo a pagar conforme Unidades\obj\Debug\net6.0\Calculo a pagar conforme Unidades.AssemblyInfo.cs
+C:\Users\thiag_000\Desktop\Projetos C#\Calculo a pagar conforme Unidades\Calculo a pagar conforme Unidades\obj\Debug\net6.0\Calculo a pagar conforme Unidades.csproj.CoreCompileInputs.cache
+C:\Users\thiag_000\Desktop\Projetos C#\Calculo a pagar conforme Unidades\Calculo a pagar conforme Unidades\bin\Debug\net6.0\Calculo a pagar conforme Unidades.exe
+C:\Users\thiag_000\Desktop\Projetos C#\Calculo a pagar conforme Unidades\Calculo a pagar conforme Unidades\bin\Debug\net6.0\Calculo a pagar conforme Unidades.deps.json
+C:\Users\thiag_000\Desktop\Projetos C#\Calculo a pagar conforme Unidades\Calculo a pagar conforme Unidades\bin\Debug\net6.0\Calculo a pagar conforme Unidades.runtimeconfig.json
+C:\Users\thiag_000\Desktop\Projetos C#\Calculo a pagar conforme Unidades\Calculo a pagar conforme Unidades\bin\Debug\net6.0\Calculo a pagar conforme Unidades.dll
+C:\Users\thiag_000\Desktop\Projetos C#\Calculo a pagar conforme Unidades\Calculo a pagar conforme Unidades\bin\Debug\net6.0\Calculo a pagar conforme Unidades.pdb
+C:\Users\thiag_000\Desktop\Projetos C#\Calculo a pagar conforme Unidades\Calculo a pagar conforme Unidades\obj\Debug\net6.0\Calculo a pagar conforme Unidades.dll
+C:\Users\thiag_000\Desktop\Projetos C#\Calculo a pagar conforme Unidades\Calculo a pagar conforme Unidades\obj\Debug\net6.0\refint\Calculo a pagar conforme Unidades.dll
+C:\Users\thiag_000\Desktop\Projetos C#\Calculo a pagar conforme Unidades\Calculo a pagar conforme Unidades\obj\Debug\net6.0\Calculo a pagar conforme Unidades.pdb
+C:\Users\thiag_000\Desktop\Projetos C#\Calculo a pagar conforme Unidades\Calculo a pagar conforme Unidades\obj\Debug\net6.0\Calculo a pagar conforme Unidades.genruntimeconfig.cache
+C:\Users\thiag_000\Desktop\Projetos C#\Calculo a pagar conforme Unidades\Calculo a pagar conforme Unidades\obj\Debug\net6.0\ref\Calculo a pagar conforme Unidades.dll

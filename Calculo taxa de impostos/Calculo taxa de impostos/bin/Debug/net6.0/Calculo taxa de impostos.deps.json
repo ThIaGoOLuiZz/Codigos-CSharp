@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Calculo taxa de impostos/1.0.0": {
+        "runtime": {
+          "Calculo taxa de impostos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Calculo taxa de impostos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
